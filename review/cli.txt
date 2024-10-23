@@ -1,0 +1,9 @@
+mkdir 
+pwd
+cd
+ls
+touch
+cat
+less
+head
+tail
