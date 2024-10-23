@@ -1,0 +1,18 @@
+git add .
+ git add filename
+ 
+ git commit 
+
+ git push 
+
+ git stash
+
+ git init
+
+ kill
+
+ git clone
+
+ git ststus
+
+ git pull
