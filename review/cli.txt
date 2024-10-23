@@ -7,3 +7,5 @@ cat
 less
 head
 tail
+grep
+
