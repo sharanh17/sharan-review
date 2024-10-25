@@ -1,0 +1,24 @@
+git add .
+ git add filename
+ 
+ git commit 
+
+ git push 
+
+ git stash
+
+ git init
+
+ kill
+
+ git clone
+
+ git ststus
+
+ git pull
+
+ const electronicsBelow100_5 = items.filter(item => 
+    item.category === 'electronics' && parseFloat(item.price.replace('$', '')) < 100.5
+);
+
+console.log(electronicsBelow100_5);
